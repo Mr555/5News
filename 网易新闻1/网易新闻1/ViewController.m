@@ -21,6 +21,7 @@
 -(void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event{
     NSLog(@"搞好啦");
     NSLog(@"%@",self.view);
+    
 }
 
 @end
